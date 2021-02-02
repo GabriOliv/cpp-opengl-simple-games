@@ -17,5 +17,5 @@ g++ -o rush_hour_game.exe rush_hour_game.cpp -lglut -lGL -lGLU
 
 | Game | Control |
 | ------ | ------ |
-| Pong Game | **W S** - [Left Side] <br/>**⬅️ ➡️** - [Right Side] <br/> **ESC** - Exit |
+| Pong Game | **W S** - [Left Side] <br/>**⬆️ ⬇️** - [Right Side] <br/> **ESC** - Exit |
 | Rush Hour | **⬆️ ⬇️** - [Select Brick] <br/>**⬅️ ➡️** - [Move Brick] <br/> **ESC** - Exit |
