@@ -1,4 +1,4 @@
-# cpp-opengl-simple-games
+# [Simple Games (C++ Opengl)](https://github.com/GabriOliv/cpp-opengl-simple-games)
 
 ### Installation
 
