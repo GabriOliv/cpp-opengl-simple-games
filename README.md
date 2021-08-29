@@ -1,19 +1,45 @@
 # [Simple Games (C++ Opengl)](https://github.com/GabriOliv/cpp-opengl-simple-games)
 
-### Installation
+Developed on Linux-like OS
+
+---
+
+## Installation 
+
+#### Dependencies
 
 ```sh
 sudo apt-get update
 sudo apt install freeglut3-dev
 ```
 
-### Compilation
+#### Download Project
+
+* Use Git Clone:
+	```sh
+	git clone https://github.com/GabriOliv/cpp-opengl-simple-games.git
+	```
+* Or [Download .zip](https://github.com/GabriOliv/cpp-opengl-simple-games/archive/refs/heads/main.zip)
+
+#### Compilation
 
 ```sh
+cd cpp-opengl-simple-games/
 g++ -o rush_hour_game.exe rush_hour_game.cpp -lglut -lGL -lGLU
+g++ -o pong_game.exe pong_game.cpp -lglut -lGL -lGLU
 ```
+#### Run
+* Pong Game
+	```sh
+	./pong_game.exe
+	```
+* Rush Hour Game
+	```sh
+	./rush_hour_game.exe
+	```
 
-### Games
+
+## Games
 
 | Game | Control |
 | ------ | ------ |
